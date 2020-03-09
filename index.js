@@ -1,7 +1,8 @@
 function converte() {
     console.log('Função aplcou');
-    var campo_binario = document.getElementById('binarie')
-    var binario = campo_binario.value;
+    var aleta = document.getElementById('alerta')
+    var binario = document.getElementById('binarie').value;
+    na
     if (binario === '') {
         
     };
